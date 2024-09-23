@@ -1723,14 +1723,14 @@ p:last-child {
 }
 .skill-progress-single-item {
     background: #2a2c39;
-    padding: 25px 25px 30px 25px;
+    /* padding: 25px 25px 30px 25px; */
     margin-bottom: 25px;
 }
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
     .skill-progress-single-item {
         padding: 45px 45px 50px 45px;
     }
-}
+} */
 .skill-progress-single-item:last-child {
     margin-bottom: 0;
 }
